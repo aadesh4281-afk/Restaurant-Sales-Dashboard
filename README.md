@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Restaurant-Dashboard.png)
 
 ## Project Overview
 This project analyzes restaurant sales performance using Power BI dashboards and visualizations.
